@@ -2,6 +2,7 @@
 
 #include "stdafx.h"
 #include "FormBingo.h"
+#include "stdio.h"
 
 using namespace Bingo;
 int mTimerInterval = 1000;
